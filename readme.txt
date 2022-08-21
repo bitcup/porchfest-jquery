@@ -5,7 +5,7 @@ in intellij, enable vcs
 in intellij, add .gitignore + add files to vcs
 commit "first commit"
 git branch -M master
-git remote add origin https://github.com/bitcup/porchfest-jq.git
+git remote add origin https://github.com/bitcup/porchfest-jquery.git
 git push -u origin master
 
 
